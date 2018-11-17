@@ -1,4 +1,4 @@
-# jawaban bootcamp arkademy
+# jawaban bootcamp arkademy 2
 ### fandhi_dhuga_prayoga (fduga2@gmail.com)
 
 
@@ -13,6 +13,10 @@
 ### jawaban soal 5
 >jawaban soal nomor 5 dengan filename : soal5.php
 ### jawaban soal 6
->jawaban soal nomor 6 ada di folder soal6
+>jawaban soal nomor 6 ada di folder "soal6"
+>keterangan :
+>1. db_soal6.sql (database)
+>2. query_soal6.sql (jawaban query soal 6)
 ### jawaban soal 7
 >jawaban soal nomor 7 dengan filename : soal7.php
+>menggunakan database db_soal6.sql

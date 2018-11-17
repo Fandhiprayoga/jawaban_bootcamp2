@@ -19,4 +19,4 @@
 >2. query_soal6.sql (jawaban query soal 6)
 ### jawaban soal 7
 >jawaban soal nomor 7 dengan filename : soal7.php
->menggunakan database db_soal6.sql
+> (menggunakan database db_soal6.sql)
